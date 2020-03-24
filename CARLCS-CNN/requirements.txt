@@ -1,0 +1,6 @@
+keras
+tensorflow-gpu
+tables
+numpy
+scipy
+scikit-learn
